@@ -8,6 +8,6 @@
 
 
 
-| day | notes | code |
-| :---:  | --- | --- |
-| 1 | [day1 Javascript Drum Kit]() |  |
+| Day | Notes | Demo | Code |
+| :---:  | --- | --- | --- |
+| 1 | [day1 Javascript Drum Kit](https://markwit.cc/posts/2018/day-1-Javascript-Drum-Kit.html) | [Demo](https://skyying.github.io/Javascript-30/01%20-%20JavaScript%20Drum%20Kit/index-START.html) | [Code](https://github.com/skyying/Javascript-30/tree/master/01%20-%20JavaScript%20Drum%20Kit) |
